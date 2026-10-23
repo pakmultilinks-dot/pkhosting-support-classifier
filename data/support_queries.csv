@@ -1,0 +1,301 @@
+id,query,category,language,template_group
+1,"Hi team, The website was fine in the morning and now it shows 502 bad gateway.",website_down_errors,english,core
+2,I no longer need this hosting account. Kindly process a full refund Thanks.,refunds_cancellations,english,core
+3,I run a small online store. Which hosting plan do you recommend?,plans_upgrades,english,core
+4,I see an extra charge on my bill that I do not understand. Please explain it.,billing_invoices,english,core
+5,Is email hosting included in all plans or only the higehr ones?,plans_upgrades,english,core
+6,"Hi team, Why was my account flagged for verification after signup?",account_login,english,heldout
+7,"Hello support, The payment gateway rejected my card three times. How else can I pay my invoice? JazakAllah.",billing_invoices,english,core
+8,My domain shows a registrar lock when I try to move it. Please unlock it Waiting for your reply.,domain_dns,english,heldout
+9,I need step by step guidance to upload my website files using FTP JazakAllah.,setup_migration,english,core
+10,"Hi team, The padlock icon disappeared after I moved my site. HTTPS is not working Please help.",ssl_security,english,core
+11,Someone is sending spam from my domain. Please secure my email accounts,email_problems,english,heldout
+12,"Assalam o Alaikum, Outgoing emails bounce back with an error about the server. Please check.",email_problems,english,core
+13,My site redirects to a spam site sometimes. I think it is infected Thanks.,ssl_security,english,core
+14,"Assalam o Alaikum, The padlock icon disappeared after I moved my site. HTTPS is not working",ssl_security,english,core
+15,I need a proper tax invoice with my company name on it for alnoorstore.pk Please help.,billing_invoices,english,heldout
+16,Webmail loads very slowly and sometimes gives a blank page.,email_problems,english,core
+17,"Please force HTTPS on desiwear.com.pk, the http version still opens Kindly resolve this soon.",ssl_security,english,core
+18,How do I update the card I use for payments on my account?,billing_invoices,english,core
+19,someone else manages my website. how do i give him access to cpanel?,account_login,english,core
+20,"Hi team, Please verify my TXT record for domain ownership is set correctly JazakAllah.",domain_dns,english,heldout
+21,"Dear PKHosting team, How long does a refund take to reach my bank account?",refunds_cancellations,english,core
+22,the dns records for greenfabrics.com are not propagating. it has been 24 hours,domain_dns,english,core
+23,Emails I send from studyhub.pk go straight to the spam folder of my clients.,email_problems,english,core
+24,"Dear PKHosting team, What are your current prices for shared hosting in PKR? Please reply urgently.",plans_upgrades,english,core
+25,Two factor authentication is enabled and I lost my phone. Help me log in.,account_login,english,core
+26,"Hello support, I want to create a subdomain blog.lahorefoods.com for my website, how do I do that?",domain_dns,english,core
+27,There is a 'This site can't be reached' message when I open fitgear.pk.,website_down_errors,english,core
+28,I need to create a new email address for our sales team on mybusiness.pk.,email_problems,english,core
+29,My hosting account was suspended. How do I get it reactivated?,account_login,english,core
+30,I am comparing hosts. Why should I choose PKHosting over others?,plans_upgrades,english,heldout
+31,"Dear PKHosting team, My payment is stuck at pending since morning, invoice number is unpaid yet.",billing_invoices,english,heldout
+32,How do I enable caching for my website on your hosting? Waiting for your reply.,performance_speed,english,core
+33,my hosting renewal is due next week. what is the exact amount i have to pay?,billing_invoices,english,core
+34,"Mujhe hosting cancel karni hai aur paisay wapas chahiyein, procedure bata dein.",refunds_cancellations,roman_urdu,core
+35,Nameserver change kar diya hai lekin website purani wali khul rahi hai abhi tak,domain_dns,english,heldout
+36,how do i change the email address registered on my account? waiting for your reply.,account_login,english,core
+37,"Dear PKHosting team, The website was fine in the morning and now it shows 502 bad gateway Kindly resolve this soon.",website_down_errors,english,core
+38,My site loads the hosting default page instead of my content.,website_down_errors,english,heldout
+39,I get 'resource limit reached' errors several times a week on the Business plan.,performance_speed,english,core
+40,How do I point my domain lahorefoods.com to my new hosting account?,domain_dns,english,core
+41,Sab se sasta hsoting plan konsa hai aap ke paas choti website ke liye?,plans_upgrades,english,core
+42,My WordPress site speed score is very poor. How can I improve it on this hosting?,performance_speed,english,core
+43,The site shows 'aBndwidth limit exceeded'. What does that mean?,website_down_errors,english,core
+44,"Dear PKHosting team, My website shows 'Not secure' in the browser. How do I get an SSL certificate? Please help.",ssl_security,english,core
+45,I get 'Error establishing a database connection' on my WordPress site.,website_down_errors,english,core
+46,I get 'Error establishing a database connection' on my WordPress site,website_down_errors,english,core
+47,My admin dashboard takes forever to save any change Please reply urgently.,performance_speed,english,core
+48,"dear pkhosting team, i have a backup file of my old website. please help me restore it here.",setup_migration,english,core
+49,Can you check what is slowing down citypharmacy.pk from the server side?,performance_speed,english,core
+50,My business is growing. How do I upgrade my current hosting plan?,plans_upgrades,english,core
+51,"Dear PKHosting team, The certificate on my subdomain is invalid while the main domain is fine.",ssl_security,english,heldout
+52,"hello support, my wordpress admin page is broken after an update. site shows critical error jazakallah.",website_down_errors,english,core
+53,Where do I find my FTP login details in the clinet area?,account_login,english,core
+54,What do I need to provide for a migration? My old host uses cPanel too Waiting for your reply.,setup_migration,english,core
+55,"I changed my mind about the purchase, please reverse the transaction.",refunds_cancellations,english,heldout
+56,I changed the nameservers yesterday but my site still shows the old page. How long does DNS take? JazakAllah.,domain_dns,english,core
+57,"Dear PKHosting team, My mailbox is full and I cannot receive emails. How do I increase the quota?",email_problems,english,core
+58,"Dear PKHosting team, Page loading improved on mobile but desktop is still sluggish.",performance_speed,english,heldout
+59,"Hello support, Do you offer malware scanning and removal for hacked websites? JazakAllah.",ssl_security,english,core
+60,Outgoing emails bounce back with an error about the server. Please check Thanks.,email_problems,english,core
+61,"Hi team, I was charged PKR 8,999 twice for my Basic hostnig this month. Please check my billing.",billing_invoices,english,core
+62,"I was charged PKR 1,999 twice for my Economy hosting this month. Please check my billing.",billing_invoices,english,core
+63,"Mujhe hosting cancel karni hai aur paisay wapas chahiyein, procedure bata dein Thanks.",refunds_cancellations,roman_urdu,core
+64,Someone else manages my website. How do I give him access to cPanel?,account_login,english,core
+65,"assalam o alaikum, my mailbox is full and i cannot receive emails. how do i increase the quota? please reply urgently.",email_problems,english,core
+66,I get 'Error establishing a database connection' on my WordPress site Please reply urgently.,website_down_errors,english,core
+67,"Dear PKHosting team, I need hosting for a school website with 500 students. Suggest a plan.",plans_upgrades,english,heldout
+68,My admin dashboard takes forever to save any change.,performance_speed,english,core
+69,"Hello support, Mujhe hosting cancel karni hai aur paisay wapas chahiyein, procedure bata dein.",refunds_cancellations,roman_urdu,core
+70,my domain expired last week. can i still renew it or is it lost? kindly resolve this soon.,domain_dns,english,core
+71,How do I isntall WordPress on my new hosting account? Waiting for your reply.,setup_migration,english,core
+72,"Dear PKHosting team, The DNS records for citypharmacy.pk are not propagating. It has been 24 hours",domain_dns,english,core
+73,My site needs more storage. What does an upgrade cost?,plans_upgrades,english,core
+74,Is email hosting included in all plans or only the higher ones? Please help.,plans_upgrades,english,core
+75,"Dear PKHosting team, Please force HTTPS on fitgear.pk, the http version still opens.",ssl_security,english,core
+76,"Reset link expire ho jata hai har bar, naya tareeqa bata dein login ka Please reply urgently.",account_login,roman_urdu,heldout
+77,Where do I find my FTP login details in the client area? JazakAllah.,account_login,english,core
+78,"Assalam o Alaikum, My site redirects to a spam site sometimes. I think it is infected",ssl_security,english,core
+79,"Email aa nahi rahi meri, inbox khali hai do din se. Check karein please.",email_problems,roman_urdu,core
+80,Where is my cPanel and how do I create my first website on royalcaterers.pk? Thanks.,setup_migration,english,core
+81,"Assalam o Alaikum, Please share the payable total for this month including taxes.",billing_invoices,english,heldout
+82,I purchased hosting today. What is the first thing I should do in cPanel? Thanks.,setup_migration,english,heldout
+83,"hello support, can you send me a copy of my latest invoice? i need it for my records kindly resolve this soon.",billing_invoices,english,core
+84,i no longer need this hosting account. kindly process a full refund.,refunds_cancellations,english,core
+85,Do you offer malware scanning and removal for hacked websites?,ssl_security,english,core
+86,"Hi team, After installing a plugin my whole website crashed. Please restore it Please help.",website_down_errors,english,core
+87,Where is my cPanel and how do I create my first website on techmart.pk?,setup_migration,english,core
+88,Is email hosting included in all plans or only the higher ones?,plans_upgrades,english,core
+89,My domain expired last week. Can I still renew it or is it lost?,domain_dns,english,core
+90,"Hi team, Site ki speed barhani hai, upgarde ke baghair koi hal hai?",performance_speed,english,heldout
+91,emails i send from citypharmacy.pk go straight to the spam folder of my clients.,email_problems,english,core
+92,Two factor authentication is enabled and I lost my phone. Help me log in Waiting for your reply.,account_login,english,core
+93,"Dear PKHosting team, The DNS records for shopease.pk are not propagating. It has been 24 hours",domain_dns,english,core
+94,Do you offer malware scanning and removal for hacked websites? Please reply urgently.,ssl_security,english,core
+95,"Assalam o Alaikum, How do I change the email address registered on my account?",account_login,english,core
+96,The DNS records for citypharmac.ypk are not propagating. It has been 24 hours.,domain_dns,english,core
+97,Can you migrate my WordPrses site from my old host to PKHosting for free?,setup_migration,english,core
+98,What is the difference between your Business and Business hosting plans?,plans_upgrades,english,core
+99,"Assalam o Alaikum, My site is not opening at all, just a blank white screen",website_down_errors,english,core
+100,"Hello support, Mera plan cancel kar dein, mujhe refund kab tak milega?",refunds_cancellations,roman_urdu,heldout
+101,I have a backup file of my old website. Please help me restore it here,setup_migration,english,core
+102,"Hi team, After installing a plugin my whole website crashed. Please restore it.",website_down_errors,english,core
+103,"dear pkhosting team, i need step by step guidance to upload my website files using ftp thanks.",setup_migration,english,core
+104,my website shows 'not secure' in the browser. how do i get an ssl certificate? please reply urgently.,ssl_security,english,core
+105,Please cancel the hosting for brighttutor.pk and refund the remaining amount.,refunds_cancellations,english,core
+106,My hosting renewal is due next week. What is the exact amount I have to pay? Kindly resolve this soon.,billing_invoices,english,core
+107,"Dear PKHosting team, Terminate this plan today. Also confirm in writing when the reimbursement is done",refunds_cancellations,english,heldout
+108,The A record I added points to the wrong IP. How do I correct it? Please help.,domain_dns,english,heldout
+109,"Cancel my subscription please, I am moving my website to another provider.",refunds_cancellations,english,core
+110,"Customers cannot access my online store, the site keeps timing out.",website_down_errors,english,core
+111,"Website band ho gayi hai bilkul, customers call kar rahe hain. Kuch karein Please reply urgently.",website_down_errors,english,heldout
+112,Please update my phone number and address in my profile.,account_login,english,core
+113,"Dear PKHosting team, Webmail loads very slowly and sometimes gives a blank page.",email_problems,english,core
+114,how do i enable caching for my website on your hosting?,performance_speed,english,core
+115,"If I upgrade today, will my website face any downtime?",plans_upgrades,english,core
+116,"Hello support, Please help me add an MX record so my email works with Google Workspace.",domain_dns,english,core
+117,There is a 'This site can't be reached' message when I open alnoorstore.pk,website_down_errors,english,core
+118,"Hi team, Can you send me a copy of my latest invoice? I need it for my records Kindly resolve this soon.",billing_invoices,english,core
+119,The site is fast at night but very slow duirng the day. Why?,performance_speed,english,core
+120,How do I connect my existing domain to this new hosting plan?,setup_migration,english,core
+121,"Assalam o Alaikum, I cannot receive the password reset email for my account Please reply urgently.",account_login,english,core
+122,How do I install the free SSL on my hosting account? Waiting for your reply.,ssl_security,english,core
+123,my site is on a blacklist. what steps remove it? kindly resolve this soon.,ssl_security,english,heldout
+124,"Email aa nahi rahi meri, inbox khali hai do din se. Check karein please",email_problems,roman_urdu,core
+125,How many email accounts can I create on the Starter plan?,email_problems,english,core
+126,Where is my cPanel and how do I create my first website on greenfabrics.com? Please help.,setup_migration,english,core
+127,My website has become very slow. Pages take 10 seconds to load.,performance_speed,english,core
+128,Close my account for citypharmacy.pk and tell me how much refund I will get Please help.,refunds_cancellations,english,core
+129,"dear pkhosting team, how do i set up my email account in outlook? please reply urgently.",email_problems,english,core
+130,I cannot receive the password reset email for my account.,account_login,english,core
+131,"Assalam o Alaikum, Meray account mein invoice generate ho gaya hai lekin amount ghalat lag raha hai, check kar dein.",billing_invoices,roman_urdu,core
+132,Where can I download my payment receipts from the client area? Thanks.,billing_invoices,english,core
+133,Sab se sasta hosting plan konsa hai aap ke paas choti website ke liye?,plans_upgrades,english,core
+134,Where is my cPanel and how do I create my first website on greenfabrics.com?,setup_migration,english,core
+135,"hi team, cpanel ka password bhool gaya hoon, reset kar dein please jazakallah.",account_login,roman_urdu,core
+136,My traffic increased and now the site cannot handle visitors. Options?,performance_speed,english,core
+137,"Dear PKHosting team, Login page keeps refreshing and never lets me into the dashboard Waiting for your reply.",account_login,english,heldout
+138,I no longer need this hosting account. Kindly process a full refund,refunds_cancellations,english,core
+139,"Please force HTTPS on fitgear.pk, the http version still opens",ssl_security,english,core
+140,"Hi team, I would like to withdraw from the service and request my payment back.",refunds_cancellations,english,heldout
+141,my website was hacked last night and google now shows a red warning page to visitors.,ssl_security,english,heldout
+142,"Dear PKHosting team, My client area login is not working even with the correct password Waitnig for your reply.",account_login,english,core
+143,I want to cancel my Premium hosting plan and get a refund. I bought it 10 days ago.,refunds_cancellations,english,core
+144,Sab se sasta hosting plan konsa hai aap ke paas choti website ke liye? JazakAllah.,plans_upgrades,english,core
+145,Do your plans include a free domain for the first year? Please reply urgently.,plans_upgrades,english,core
+146,Please set up a staging copy of my site so I can test changes safely Kindly resolve this soon.,setup_migration,english,core
+147,I get 'resource limit reached' errors several times a week on the Premium plan.,performance_speed,english,core
+148,"dear pkhosting team, please set up a staging copy of my site so i can test changes safely.",setup_migration,english,core
+149,The website was fine in the morning and now it shows 502 bad gateway Please reply urgently.,website_down_errors,english,core
+150,After installing a plugin my whole website crashed. Please restore it Please reply urgently.,website_down_errors,english,core
+151,"Dear PKHosting team, Is there a website builder included or should I use WordPress?",setup_migration,english,heldout
+152,"Dear PKHosting team, Outgoing emails bounce back with an error about the server. Please check.",email_problems,english,core
+153,"I was charged PKR 12,000 twice for my Starter hosting this month. Please check my billing Please reply urgently.",billing_invoices,english,core
+154,What is the difference between your Business and Business hosting plans? Thanks.,plans_upgrades,english,core
+155,How do I install the free SSL on my hosting account?,ssl_security,english,core
+156,How many visitors per month can the Premium plan handle roughly?,plans_upgrades,english,heldout
+157,"cPanel ka password bhool gaya hoon, reset kar dein please Kindly resolve this soon.",account_login,roman_urdu,core
+158,"Dear PKHosting team, Is your server down? All my hosted sites are unreachable right now.",website_down_errors,english,core
+159,The mail server is rejecting my login even though the password is correct.,email_problems,english,core
+160,Can your team install WooCommerce and a theme for my store?,setup_migration,english,heldout
+161,"Hi team, The DNS records for studyhub.pk are not propagating. It has been 24 hours.",domain_dns,english,core
+162,The SSL certificate chain on citypharmacy.pk shows as incomplete in online checkers,ssl_security,english,heldout
+163,"Assalam o Alaikum, Please stop my auto renewal and reufnd the last charge of PKR 12,000 Please reply urgently.",refunds_cancellations,english,core
+164,"Dear PKHosting team, How do I install the free SSL on my hosting account?",ssl_security,english,core
+165,Is a partial refund possible if I cancel halfway through the year?,refunds_cancellations,english,heldout
+166,"Hi team, The payment gateway rejected my card three times. How else can I pay my invoice?",billing_invoices,english,core
+167,My developer built the site on his computer. How do we put it on my hosting? Thanks.,setup_migration,english,core
+168,"Hello support, My account shows 'suspended for billing' but I already paid. Restore it Waiting for your reply.",account_login,english,core
+169,"Cancel my subscription please, I am moving my website to anohter provider Kindly resolve this soon.",refunds_cancellations,english,core
+170,My traffic increased and now the site cannot handle visitors. Options? Kindly resolve this soon.,performance_speed,english,core
+171,"hello support, i want to shift two websites from another company to one account here",setup_migration,english,heldout
+172,How can I transfer my domain from another registrar to PKHosting?,domain_dns,english,core
+173,"Dear PKHosting team, Auto reply set karna hai meri email par chuttiyon ke liye, tareeqa bata dein.",email_problems,roman_urdu,heldout
+174,I run a small online store. Which hosting plan do you recommned?,plans_upgrades,english,core
+175,My account reached its resource limit again. What is using so much? JazakAllah.,performance_speed,english,core
+176,"Hi team, The service did not work for my project, so I want to discontinue and claim a refund Thanks.",refunds_cancellations,english,core
+177,"Assalam o Alaikum, Do your plans include a free domain for the first year?",plans_upgrades,english,core
+178,"Dear PKHosting team, My site is not opening at all, just a blank white screen",website_down_errors,english,core
+179,"Assalam o Alaikum, Cancel my subscription please, I am moving my website to another provider.",refunds_cancellations,english,core
+180,Outgoing emails bounce back with an error about the server. Please check JazakAllah.,email_problems,english,core
+181,"Please force HTTPS on shopease.pk, the http version still opens Thanks.",ssl_security,english,core
+182,Two factor authentication is enabled and I lost my phone. Help me log in,account_login,english,core
+183,Google marked my website as dangerous. How can I clean it?,ssl_security,english,core
+184,"The service did not work for my project, so I want to discontinue and claim a refund Please help.",refunds_cancellations,english,core
+185,Speed test shows a very high server response time. Please investigate.,performance_speed,english,heldout
+186,"Hello support, What are your current prices for shared hosting in PKR?",plans_upgrades,english,core
+187,why did the renewal price increase compared to last year?,billing_invoices,english,heldout
+188,The username in my welcome email does not work for cPanel sign in,account_login,english,heldout
+189,Is email hsoting included in all plans or only the higher ones?,plans_upgrades,english,core
+190,What is your refund policy for domain registrations?,refunds_cancellations,english,core
+191,Images on my store load slowly and customers leave the site.,performance_speed,english,core
+192,My WordPress site speed score is very poor. How can I improve it on this hotsing?,performance_speed,english,core
+193,how do i point my domian techmart.pk to my new hosting account?,domain_dns,english,core
+194,All my old emails disappeared from the inbox after I changed phones.,email_problems,english,heldout
+195,"Assalam o Alaikum, How can I transfer my domain from another registrar to PKHosting? JazakAllah.",domain_dns,english,core
+196,I need to add a CNAME record for my subdomain shop.mybusiness.pk Waiting for your reply.,domain_dns,english,core
+197,"Dear PKHosting team, Two factor authentication is enabled and I lost my phone. Help me log in JazakAllah.",account_login,english,core
+198,the hosting shows high cpu usage and my site keeps getting suspended.,performance_speed,english,core
+199,How do I enable caching for my website on your hosting?,performance_speed,english,core
+200,The DNS records for alnoorstore.pk are not propagating. It has been 24 hours,domain_dns,english,core
+201,"Hello support, I want to create a subdomain blog.techmart.pk for my website, how do I do that? JazakAllah.",domain_dns,english,core
+202,Can I renew my domain for 5 years at once? What will it cost?,domain_dns,english,core
+203,pages of my store load slowly for visitors outside pakistan. would a cdn make them faster? jazakallah.,performance_speed,english,heldout
+204,"The service did not work for my project, so I want to discontinue and claim a refund.",refunds_cancellations,english,core
+205,Please set up a staging copy of my site so I can test changes safely Thanks.,setup_migration,english,core
+206,My mailbox is full and I cannot receive emails. How do I increase the quota?,email_problems,english,core
+207,"Hello support, Website bohat slow ho gayi hai, koi check kar ke bata dein wajah",performance_speed,roman_urdu,core
+208,the checkout page of my store returns an error and orders are lost.,website_down_errors,english,heldout
+209,How do I install WordPress on my new hosting account?,setup_migration,english,core
+210,"Assalam o Alaikum, Where can I download my payment receipts from the client area?",billing_invoices,english,core
+211,i forgot my cpanel password and cannot log in. please reset it.,account_login,english,core
+212,i run a small online store. which hosting plan do you recommend?,plans_upgrades,english,core
+213,Can I host two websites on one plan or do I need separate accounts?,plans_upgrades,english,core
+214,"Hello support, I accidentally renewed for a year. Can I cancel and get my money back?",refunds_cancellations,english,core
+215,"hi team, meri website khul nahi rahi, error aa raha hai. jaldi check karein please.",website_down_errors,roman_urdu,core
+216,"Bill ki copy email kar dein, mujhe accounts department ko deni hai",billing_invoices,roman_urdu,heldout
+217,My site redirects to a strange page that is not mine. It worked yesterday Waiting for your reply.,website_down_errors,english,heldout
+218,"My invoice shows a renewal fee of PKR 4,999 but my plan was supposed to be chepaer. Why?",billing_invoices,english,core
+219,"Assalam o Alaikum, I need an SSL certificate for my online store checkout page.",ssl_security,english,core
+220,Please help me configure SPF and DKIM so my mails are not marked spam Please reply urgently.,email_problems,english,heldout
+221,how many email accounts can i create on the starter plan?,email_problems,english,core
+222,"Upload karna hai mujhe apni files, FileZilla ki settings bata dein",setup_migration,roman_urdu,heldout
+223,Outgoing emails bounce back with an error about the server. Please check.,email_problems,english,core
+224,"Dear PKHosting team, I get 'Error establishing a database connection' on my WordPress site JazakAllah.",website_down_errors,english,core
+225,"Assalam o Alaikum, My traffic increased and now the site cannot handle visitors. Otpions?",performance_speed,english,core
+226,do i get anything back if i shut down the account before expiry?,refunds_cancellations,english,heldout
+227,"Hi team, I see an extra charge on my bill that I do not understand. Please explain it Thanks.",billing_invoices,english,core
+228,what is the difference between your premium and business hosting plans? waiting for your reply.,plans_upgrades,english,core
+229,I changed the nameservers yesterday but my site still shows the old page. How long does DNS take?,domain_dns,english,core
+230,My site was hacked and now shows strange Japanese pages on Google.,ssl_security,english,core
+231,"Mujhe hosting cancel karni hai aur paisay wapas chahiyein, procedure bata dein",refunds_cancellations,roman_urdu,core
+232,"Dear PKHosting team, My invoice shows a renewal fee of PKR 6,500 but my plan was supposed to be cheaper. Why?",billing_invoices,english,core
+233,I am locked out of my account after too many login attempts.,account_login,english,core
+234,"Hi team, Webmail loads very slowly and sometimes gives a blank page JazakAllah.",email_problems,english,core
+235,What are your nameservers? I need to update them at my registrar JazakAllah.,domain_dns,english,core
+236,"Customers cannot access my online store, the site keeps timing out Please help.",website_down_errors,english,core
+237,Close my account for fitgear.pk and tell me how much refnud I will get Thanks.,refunds_cancellations,english,core
+238,"Assalam o Alaikum, Are there any discounts for students or new businesses right now?",plans_upgrades,english,heldout
+239,"Assalam o Alaikum, Can I renew my domain for 5 years at once? What will it cost? JazakAllah.",domain_dns,english,core
+240,i need an ssl certificate for my online store checkout page thanks.,ssl_security,english,core
+241,My account shows 'suspended for billing' but I already paid. Restore it Kindly resolve this soon.,account_login,english,core
+242,My account reached its resource limit again. What is using so much?,performance_speed,english,core
+243,"Hi team, I forgot the password of my email account info@desiwear.com.pk. Please reset it.",email_problems,english,core
+244,Where is my cPanel and how do I create my first website on citypharmacy.pk? Thanks.,setup_migration,english,core
+245,My website shows 'Not secure' in the browser. How do I get an SSL certificate?,ssl_security,english,core
+246,"Hi team, How do I update the card I use for payments on my account?",billing_invoices,english,core
+247,"Hi team, Is domain privacy protection included or do I pay extra for it?",domain_dns,english,heldout
+248,"dear pkhosting team, i cannot receive the password reset email for my account please help.",account_login,english,core
+249,"Hi team, I paid through bank transfer yesterday but my invoice still shows unpaid. Please confirm Please reply urgently.",billing_invoices,english,core
+250,The site is fast at night but very slow during the day. Why?,performance_speed,english,core
+251,How long does a full migration usually take for a small business site? Please help.,setup_migration,english,heldout
+252,does the business plan support more traffic than my current one?,plans_upgrades,english,heldout
+253,"Dear PKHosting team, My developer built the site on his computer. How do we put it on my hosting? JazakAllah.",setup_migration,english,core
+254,My www address works but the address without www does not. Fix the DNS please Thanks.,domain_dns,english,heldout
+255,"If I upgrade toady, will my website face any downtime? JazakAllah.",plans_upgrades,english,core
+256,My email works on webmail but not in my phone mail app. What settings should I use? Waiting for your reply.,email_problems,english,heldout
+257,I see an extra charge on my bill that I do not understand. Please explain it Please help.,billing_invoices,english,core
+258,"Padlock nahi aa raha browser mein, certificate ka issue lagta hai.",ssl_security,roman_urdu,heldout
+259,"Meray account mein invoice generate ho gaya hai lekin amount ghalat lag raha hai, check kar dein.",billing_invoices,roman_urdu,core
+260,Please help me add an MX reocrd so my email works with Google Workspace.,domain_dns,english,core
+261,Is your server down? All my hosted sites are unreachable right now.,website_down_errors,english,core
+262,The mail server is rejecting my login even though the password is correct Kindly resolve this soon.,email_problems,english,core
+263,My account shows 'suspended for billing' but I already paid. Restore it JazakAllah.,account_login,english,core
+264,I want to transfer my hosting account ownership to my business partner,account_login,english,heldout
+265,"Dear PKHosting team, My site uses too much RAM according to cPanel. Which plugin is responsible?",performance_speed,english,heldout
+266,"Meri website khul nahi rahi, error aa raha hai. Jaldi check karein please.",website_down_errors,roman_urdu,core
+267,"hi team, i need step by step guidance to upload my website files using ftp.",setup_migration,english,core
+268,Visitors see a security warning and the page refuses to load completely.,website_down_errors,english,heldout
+269,"Hi team, My emails are delayed by hours. Customers are complaining Please help.",email_problems,english,core
+270,How do I install the free SSL on my hosting account? Please help.,ssl_security,english,core
+271,Can I get a discount if I pay for two years of hosting in advance?,billing_invoices,english,core
+272,my account recahed its resource limit again. what is using so much?,performance_speed,english,core
+273,I was promised a 30 day money back guarantee. I want to claim it.,refunds_cancellations,english,core
+274,I need step by step guidance to upload my website files using FTP Please help.,setup_migration,english,core
+275,"Naya hosting liya hai, website banana start karna hai. Guide kar dein Please help.",setup_migration,english,core
+276,Pages show 503 service unavailable every evening around 8 pm Thanks.,website_down_errors,english,heldout
+277,database queries on my store are timing out during peak hours please reply urgently.,performance_speed,english,heldout
+278,How long does a refund take to reach my bank account? Please reply urgently.,refunds_cancellations,english,core
+279,How do I check whether my WordPress site has malware right now? Waiting for your reply.,ssl_security,english,heldout
+280,"hello support, can i get a discount if i pay for two years of hosting in advance? please help.",billing_invoices,english,core
+281,I need to merge two accounts I created by mistake into one.,account_login,english,heldout
+282,Do your plans include a free domain for the first year?,plans_upgrades,english,core
+283,"Plan upgrade karna hai lekin data loss ka dar hai, confirm kar dein",plans_upgrades,roman_urdu,heldout
+284,"Assalam o Alaikum, Can I split my annual hosting bill into monthly payments?",billing_invoices,english,heldout
+285,"cPanel ka password bhool gaya hoon, reset kar dein please Thanks.",account_login,roman_urdu,core
+286,"Assalam o Alaikum, How can I transfer my domain from another registrar to PKHosting? Thanks.",domain_dns,english,core
+287,Chrome blocks my site saying the connection is not private. Please fix it.,ssl_security,english,core
+288,"Dear PKHosting team, Cancel my subscription please, I am moving my website to another provider",refunds_cancellations,english,core
+289,"Dear PKHosting team, My WordPress admin page is broken after an update. Site shows critical error.",website_down_errors,english,core
+290,"Dear PKHosting team, Can you move my site and emails together without any donwtime?",setup_migration,english,core
+291,"Dear PKHosting team, I get 'resource limit reached' errors several times a week on the Business plan Kindly resolve this soon.",performance_speed,english,core
+292,"Hello support, Meri website khul nahi rahi, error aa raha hai. Jaldi check karein please",website_down_errors,roman_urdu,core
+293,How do I connect my existing domain to this new hosting plan? JazakAllah.,setup_migration,english,core
+294,I cannot send attachments bigger than a few MB. What is the limit? Please reply urgently.,email_problems,english,heldout
+295,The site is fast at night but very slow during the day. Why? Waiting for your reply.,performance_speed,english,core
+296,can i host two websites on one plan or do i need separate accounts?,plans_upgrades,english,core
+297,"I was charged PKR 1,999 twice for my Starter hosting this month. Please check my billing Waiting for your reply.",billing_invoices,english,core
+298,My business email is not receiving any new emails since yesterday.,email_problems,english,core
+299,"I want to create a subdomain blog.citypharmacy.pk for my website, how do I do that?",domain_dns,english,core
+300,Chrome blocks my site saying the connection is not private. Please fix it Thanks.,ssl_security,english,core

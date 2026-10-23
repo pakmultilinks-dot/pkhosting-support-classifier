@@ -1,0 +1,225 @@
+{
+  "dataset": {
+    "total": 300,
+    "classes": 10,
+    "primary_split": "stratified 80/20, seed 42",
+    "train": 240,
+    "test": 60
+  },
+  "model_comparison_on_test": {
+    "Logistic Regression": {
+      "accuracy": 0.9,
+      "macro_f1": 0.8981
+    },
+    "Multinomial Naive Bayes": {
+      "accuracy": 0.8833,
+      "macro_f1": 0.8823
+    },
+    "Linear SVM": {
+      "accuracy": 0.9167,
+      "macro_f1": 0.9149
+    }
+  },
+  "primary_model": "TF-IDF (word 1-2g + char 3-5g) + Logistic Regression",
+  "test_metrics": {
+    "accuracy": 0.9,
+    "macro_f1": 0.8981,
+    "weighted_f1": 0.8981
+  },
+  "cv5_metrics": {
+    "accuracy": 0.81,
+    "macro_f1": 0.8102
+  },
+  "stress_test_unseen_phrasings": {
+    "accuracy": 0.45,
+    "macro_f1": 0.4493,
+    "train": "240 core phrasings",
+    "test": "60 held-out phrasings"
+  },
+  "per_class": {
+    "account_login": {
+      "precision": 1.0,
+      "recall": 0.8333,
+      "f1": 0.9091,
+      "support": 6
+    },
+    "billing_invoices": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 6
+    },
+    "domain_dns": {
+      "precision": 0.8571,
+      "recall": 1.0,
+      "f1": 0.9231,
+      "support": 6
+    },
+    "email_problems": {
+      "precision": 0.8571,
+      "recall": 1.0,
+      "f1": 0.9231,
+      "support": 6
+    },
+    "performance_speed": {
+      "precision": 0.8,
+      "recall": 0.6667,
+      "f1": 0.7273,
+      "support": 6
+    },
+    "plans_upgrades": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 6
+    },
+    "refunds_cancellations": {
+      "precision": 0.8571,
+      "recall": 1.0,
+      "f1": 0.9231,
+      "support": 6
+    },
+    "setup_migration": {
+      "precision": 0.8333,
+      "recall": 0.8333,
+      "f1": 0.8333,
+      "support": 6
+    },
+    "ssl_security": {
+      "precision": 1.0,
+      "recall": 0.8333,
+      "f1": 0.9091,
+      "support": 6
+    },
+    "website_down_errors": {
+      "precision": 0.8333,
+      "recall": 0.8333,
+      "f1": 0.8333,
+      "support": 6
+    }
+  },
+  "misclassifications": [
+    {
+      "query": "Dear PKHosting team, The certificate on my subdomain is invalid while the main domain is fine.",
+      "true": "ssl_security",
+      "predicted": "domain_dns"
+    },
+    {
+      "query": "Can your team install WooCommerce and a theme for my store?",
+      "true": "setup_migration",
+      "predicted": "performance_speed"
+    },
+    {
+      "query": "Pages show 503 service unavailable every evening around 8 pm Thanks.",
+      "true": "website_down_errors",
+      "predicted": "refunds_cancellations"
+    },
+    {
+      "query": "database queries on my store are timing out during peak hours please reply urgently.",
+      "true": "performance_speed",
+      "predicted": "website_down_errors"
+    },
+    {
+      "query": "Reset link expire ho jata hai har bar, naya tareeqa bata dein login ka Please reply urgently.",
+      "true": "account_login",
+      "predicted": "email_problems"
+    },
+    {
+      "query": "Dear PKHosting team, My site uses too much RAM according to cPanel. Which plugin is responsible?",
+      "true": "performance_speed",
+      "predicted": "setup_migration"
+    }
+  ],
+  "sample_predictions": [
+    {
+      "query": "I get 'Error establishing a database connection' on my WordPress site Please reply urgently.",
+      "true": "website_down_errors",
+      "predicted": "website_down_errors",
+      "correct": true
+    },
+    {
+      "query": "Dear PKHosting team, My website shows 'Not secure' in the browser. How do I get an SSL certificate? Please help.",
+      "true": "ssl_security",
+      "predicted": "ssl_security",
+      "correct": true
+    },
+    {
+      "query": "The service did not work for my project, so I want to discontinue and claim a refund.",
+      "true": "refunds_cancellations",
+      "predicted": "refunds_cancellations",
+      "correct": true
+    },
+    {
+      "query": "Where is my cPanel and how do I create my first website on greenfabrics.com? Please help.",
+      "true": "setup_migration",
+      "predicted": "setup_migration",
+      "correct": true
+    },
+    {
+      "query": "Hi team, The website was fine in the morning and now it shows 502 bad gateway.",
+      "true": "website_down_errors",
+      "predicted": "website_down_errors",
+      "correct": true
+    },
+    {
+      "query": "How many email accounts can I create on the Starter plan?",
+      "true": "email_problems",
+      "predicted": "email_problems",
+      "correct": true
+    },
+    {
+      "query": "Dear PKHosting team, Outgoing emails bounce back with an error about the server. Please check.",
+      "true": "email_problems",
+      "predicted": "email_problems",
+      "correct": true
+    },
+    {
+      "query": "My admin dashboard takes forever to save any change.",
+      "true": "performance_speed",
+      "predicted": "performance_speed",
+      "correct": true
+    },
+    {
+      "query": "My business email is not receiving any new emails since yesterday.",
+      "true": "email_problems",
+      "predicted": "email_problems",
+      "correct": true
+    },
+    {
+      "query": "Someone else manages my website. How do I give him access to cPanel?",
+      "true": "account_login",
+      "predicted": "account_login",
+      "correct": true
+    },
+    {
+      "query": "Close my account for citypharmacy.pk and tell me how much refund I will get Please help.",
+      "true": "refunds_cancellations",
+      "predicted": "refunds_cancellations",
+      "correct": true
+    },
+    {
+      "query": "Please force HTTPS on shopease.pk, the http version still opens Thanks.",
+      "true": "ssl_security",
+      "predicted": "ssl_security",
+      "correct": true
+    },
+    {
+      "query": "Hi team, The DNS records for studyhub.pk are not propagating. It has been 24 hours.",
+      "true": "domain_dns",
+      "predicted": "domain_dns",
+      "correct": true
+    },
+    {
+      "query": "The username in my welcome email does not work for cPanel sign in",
+      "true": "account_login",
+      "predicted": "account_login",
+      "correct": true
+    },
+    {
+      "query": "the dns records for greenfabrics.com are not propagating. it has been 24 hours",
+      "true": "domain_dns",
+      "predicted": "domain_dns",
+      "correct": true
+    }
+  ]
+}

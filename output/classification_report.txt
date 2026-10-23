@@ -1,0 +1,16 @@
+                       precision    recall  f1-score   support
+
+        account_login       1.00      0.83      0.91         6
+     billing_invoices       1.00      1.00      1.00         6
+           domain_dns       0.86      1.00      0.92         6
+       email_problems       0.86      1.00      0.92         6
+    performance_speed       0.80      0.67      0.73         6
+       plans_upgrades       1.00      1.00      1.00         6
+refunds_cancellations       0.86      1.00      0.92         6
+      setup_migration       0.83      0.83      0.83         6
+         ssl_security       1.00      0.83      0.91         6
+  website_down_errors       0.83      0.83      0.83         6
+
+             accuracy                           0.90        60
+            macro avg       0.90      0.90      0.90        60
+         weighted avg       0.90      0.90      0.90        60
