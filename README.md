@@ -23,7 +23,7 @@ dataset of 300 queries (no real customer data).
 
 `data/support_queries.csv` - 300 synthetic queries, 30 per category, generated
 by `src/generate_dataset.py` (seed 42) from hand-written phrasing templates with
-randomized slots (fictional domains, plan names, PKR amounts). About 10% are
+randomized slots (fictional domains, plan names, PKR amounts). About 7% are
 Roman Urdu, reflecting PKHosting's customer base. Each row also carries a
 `template_group` flag (`core` / `heldout`): the 60 held-out phrasings are used
 only for the stress test described below.
